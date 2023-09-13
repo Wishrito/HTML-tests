@@ -49,7 +49,7 @@ body {
   
 .dropdown .dropbtn {
     font-size: 16px;  
-    border: none;
+    border: white 12px;
     outline: none;
     color: white;
     padding: 14px 16px;
