@@ -47,7 +47,7 @@ body {
     overflow: hidden;
 }
   
-.button {
+.dropdtn {
     font-size: 16px;  
     border: white 12px;
     outline: none;
@@ -58,7 +58,7 @@ body {
     margin: 0;
 }
   
-.navbar a:hover, .dropdown:hover .dropbtn {
+.navbar a:hover, .dropdown:hover .dropdtn {
     background-color: red;
 }
   
