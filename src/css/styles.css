@@ -47,7 +47,7 @@ body {
     overflow: hidden;
 }
   
-.dropbtn {
+.button {
     font-size: 16px;  
     border: white 12px;
     outline: none;
