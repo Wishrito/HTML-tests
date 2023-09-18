@@ -1,7 +1,6 @@
 function myFunction() {
     let text;
-    let person = prompt("Please enter your name:", "your name");
-    let password = prompt("Please enter your password:", "your password");
+    let person = prompt("Please enter your name:", "your name"); prompt("Please enter your password:", "your password");
     if (person == null || person == "" ) {
         if (password == null || password == "") {
             text = "invalid credentials.";
