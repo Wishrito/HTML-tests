@@ -87,3 +87,18 @@ body {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+.couleur_bleue {
+    color: blue;
+}
+#couleur_rouge {
+    color: red;
+}
+.container {
+    font-style: italic;
+}
+.souligne {
+    text-decoration: underline;
+}
+.gras {
+    font-weight: bold;
+}
