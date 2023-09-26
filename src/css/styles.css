@@ -11,9 +11,13 @@ nav a :hover {
 footer a {
     text-decoration: none;
     color:  gainsboro;
+    font-family: "Minecraft";
+    src: local(Minecraft), url(../font/MinecraftRegular-Bmg3.otf)format("otf");
 }
 footer a :hover {
     color: white;
+    font-family: "Minecraft";
+    src: local(Minecraft), url(../font/MinecraftRegular-Bmg3.otf)format("otf");
 }
 /* Dropdown Button */
 .dropdtn {
@@ -31,6 +35,8 @@ body {
 .navbar {
     overflow: hidden;
     background-color: #333;
+    font-family: "Minecraft";
+    src: local(Minecraft), url(../font/MinecraftRegular-Bmg3.otf)format("otf");
 }
   
 .navbar a {
