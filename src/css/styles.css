@@ -12,12 +12,12 @@ footer a {
     text-decoration: none;
     color:  gainsboro;
     font-family: "Minecraft";
-    src: local(Minecraft), url(../font/MinecraftRegular-Bmg3.ttf)format("ttf");
+    src: local(Minecraft), url(../font/whitneybold.woff)format("woff");
 }
 footer a :hover {
     color: white;
     font-family: "Minecraft";
-    src: local(Minecraft), url(../font/MinecraftRegular-Bmg3.ttf)format("ttf");
+    src: local(Minecraft), url(../font/whitneybold.woff)format("woff");
 }
 /* Dropdown Button */
 .dropdtn {
@@ -36,7 +36,7 @@ body {
     overflow: hidden;
     background-color: #333;
     font-family: "Minecraft";
-    src: local(Minecraft), url(../font/MinecraftRegular-Bmg3.ttf)format("ttf");
+    src: local(Minecraft), url(../font/whitneybold.woff)format("woff");
 }
   
 .navbar a {
