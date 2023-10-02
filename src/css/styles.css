@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Minecraft";
+    src: url(../font/Minecraft-Regular.ttf) format("ttf");
+}
+
 header {
     background: lightgray;
 }
@@ -11,13 +16,12 @@ nav a :hover {
 footer a {
     text-decoration: none;
     color:  gainsboro;
-    font-family: "Minecraft";
-    src: url(../font/Minecraft-Regular.ttf) format("ttf");
+    font-family: "Minecraft", sans-serif;
+
 }
 footer a :hover {
     color: white;
-    font-family: "Minecraft";
-    src: url(../font/Minecraft-Regular.ttf) format("ttf");
+    font-family: "Minecraft", sans-serif;
 }
 /* Dropdown Button */
 .dropdtn {
@@ -35,8 +39,7 @@ body {
 .navbar {
     overflow: hidden;
     background-color: #333;
-    font-family: "Minecraft";
-    src: url(../font/Minecraft-Regular.ttf) format("ttf");
+    font-family: "Minecraft", sans-serif;
 }
   
 .navbar a {
