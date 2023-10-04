@@ -34,11 +34,13 @@ footer {
     padding-top: 2em;
     background: dimgray;
     color: white
+    font-family: "Minecraft", sans-serif;
 }
+
 footer a {
     text-decoration: none;
     color:  gainsboro;
-    font-family: "Minecraft", sans-serif;
+    
 
 }
 
@@ -48,7 +50,6 @@ footer div {
 
 footer a :hover {
     color: white;
-    font-family: "Minecraft", sans-serif;
 }
 /* Dropdown Button */
 .dropdtn {
