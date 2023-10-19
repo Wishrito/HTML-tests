@@ -21,6 +21,10 @@ body aside {
 body aside :hover {
     color: black;
 }
+body table {
+    border: 5px;
+}
+
 
 nav a {
     text-decoration: none;
@@ -135,4 +139,8 @@ footer a :hover {
 }
 .gras {
     font-weight: bold;
+}
+table, caption, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
 }
